@@ -13,8 +13,8 @@ EOT
 
 cat <<EOT> /tmp/credentials
 [default]
-aws_access_key_id = AKIAYIM3N2BWN24WYL75
-aws_secret_access_key = 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
+aws_access_key_id = 
+aws_secret_access_key = 
 EOT
 
 chmod 755 /tmp/c*
